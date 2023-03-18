@@ -1,0 +1,13 @@
+{
+  "name": "msnodesqlv8_yarn_sample",
+  "version": "1.0.0",
+  "description": "simple select using yarn install",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "msnodesqlv8": "^3.0.1"
+  },
+  "scripts": {
+    "test": "node index"
+  }
+}
