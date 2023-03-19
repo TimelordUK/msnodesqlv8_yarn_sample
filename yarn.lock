@@ -105,13 +105,13 @@ mkdirp-classic@^0.5.2, mkdirp-classic@^0.5.3:
   resolved "https://registry.yarnpkg.com/mkdirp-classic/-/mkdirp-classic-0.5.3.tgz#fa10c9115cc6d8865be221ba47ee9bed78601113"
   integrity sha512-gKLcREMhtuZRwRAfqP3RFW+TK4JqApVBtOIftVgjuABpAtpxhPGaDcfvbhNvD0B8iD1oUr/txX35NjcaY6Ns/A==
 
-msnodesqlv8@^3.0.1:
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/msnodesqlv8/-/msnodesqlv8-3.0.1.tgz#200c9fcab4b17ef1b5c5cad70e041ba9d13dcde5"
-  integrity sha512-yqFnw294OFJJDNQ9DRR3fxkw1TkD7cJbSEgRTvVmALKaS8d0HNiE8+l1o73GjuYbaZ6Xuji9rNVg90fF4VG1Ng==
+msnodesqlv8@^3.1.0:
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/msnodesqlv8/-/msnodesqlv8-3.1.0.tgz#dff14bed6e8ff1acf38d25debcd49bcd44a9ea4c"
+  integrity sha512-JYvVgG/FrMk0vTiVJ59FsYB0TBbAhoFyNIyYO6CMCuWAOw3ehN8X/uvFhPZKLk/J7fw1cY4wrHoPdWxaWDM5bA==
   dependencies:
     nan "^2.17.0"
-    node-abi "^3.30.0"
+    node-abi "^3.33.0"
     prebuild-install "^7.1.1"
 
 nan@^2.17.0:
@@ -124,7 +124,7 @@ napi-build-utils@^1.0.1:
   resolved "https://registry.yarnpkg.com/napi-build-utils/-/napi-build-utils-1.0.2.tgz#b1fddc0b2c46e380a0b7a76f984dd47c41a13806"
   integrity sha512-ONmRUqK7zj7DWX0D9ADe03wbwOBZxNAfF20PlGfCWQcD3+/MakShIHrMqx9YwPTfxDdF1zLeL+RGZiR9kGMLdg==
 
-node-abi@^3.3.0, node-abi@^3.30.0:
+node-abi@^3.3.0, node-abi@^3.33.0:
   version "3.33.0"
   resolved "https://registry.yarnpkg.com/node-abi/-/node-abi-3.33.0.tgz#8b23a0cec84e1c5f5411836de6a9b84bccf26e7f"
   integrity sha512-7GGVawqyHF4pfd0YFybhv/eM9JwTtPqx0mAanQ146O3FlSh3pA24zf9IRQTOsfTSqXTNzPSP5iagAJ94jjuVog==
