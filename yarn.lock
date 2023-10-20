@@ -105,19 +105,19 @@ mkdirp-classic@^0.5.2, mkdirp-classic@^0.5.3:
   resolved "https://registry.yarnpkg.com/mkdirp-classic/-/mkdirp-classic-0.5.3.tgz#fa10c9115cc6d8865be221ba47ee9bed78601113"
   integrity sha512-gKLcREMhtuZRwRAfqP3RFW+TK4JqApVBtOIftVgjuABpAtpxhPGaDcfvbhNvD0B8iD1oUr/txX35NjcaY6Ns/A==
 
-msnodesqlv8@^4.1.0:
-  version "4.1.0"
-  resolved "https://registry.yarnpkg.com/msnodesqlv8/-/msnodesqlv8-4.1.0.tgz#28a898603beb6acda3002a08d3a35ab60e6270b9"
-  integrity sha512-LE1f4RN5ws6wq7eIsRoI1G8ujQIstmGo9y79LPDSEVrVeUXxfx4mP+pUQtvawgsEaJq+pnTvjH2vR1y+5rhNIg==
+msnodesqlv8@^4.1.1:
+  version "4.1.1"
+  resolved "https://registry.yarnpkg.com/msnodesqlv8/-/msnodesqlv8-4.1.1.tgz#5413b3b886761a4f3ee5e6bf98b3b88c48bc1f66"
+  integrity sha512-RsPShaEDR60ACTslQFU72HihoiT6YsAKyI4WqZBH2uGBZMXmZSSBwZFqiUaDVY/3i2HolzG67YPULr571bmxhA==
   dependencies:
-    nan "^2.17.0"
-    node-abi "^3.40.0"
+    nan "^2.18.0"
+    node-abi "^3.50.0"
     prebuild-install "^7.1.1"
 
-nan@^2.17.0:
-  version "2.17.0"
-  resolved "https://registry.yarnpkg.com/nan/-/nan-2.17.0.tgz#c0150a2368a182f033e9aa5195ec76ea41a199cb"
-  integrity sha512-2ZTgtl0nJsO0KQCjEpxcIr5D+Yv90plTitZt9JBfQvVJDS5seMl3FOvsh3+9CoYWXf/1l5OaZzzF6nDm4cagaQ==
+nan@^2.18.0:
+  version "2.18.0"
+  resolved "https://registry.yarnpkg.com/nan/-/nan-2.18.0.tgz#26a6faae7ffbeb293a39660e88a76b82e30b7554"
+  integrity sha512-W7tfG7vMOGtD30sHoZSSc/JVYiyDPEyQVso/Zz+/uQd0B0L46gtC+pHha5FFMRpil6fm/AoEcRWyOVi4+E/f8w==
 
 napi-build-utils@^1.0.1:
   version "1.0.2"
@@ -131,10 +131,10 @@ node-abi@^3.3.0:
   dependencies:
     semver "^7.3.5"
 
-node-abi@^3.40.0:
-  version "3.40.0"
-  resolved "https://registry.yarnpkg.com/node-abi/-/node-abi-3.40.0.tgz#51d8ed44534f70ff1357dfbc3a89717b1ceac1b4"
-  integrity sha512-zNy02qivjjRosswoYmPi8hIKJRr8MpQyeKT6qlcq/OnOgA3Rhoae+IYOqsM9V5+JnHWmxKnWOT2GxvtqdtOCXA==
+node-abi@^3.50.0:
+  version "3.51.0"
+  resolved "https://registry.yarnpkg.com/node-abi/-/node-abi-3.51.0.tgz#970bf595ef5a26a271307f8a4befa02823d4e87d"
+  integrity sha512-SQkEP4hmNWjlniS5zdnfIXTk1x7Ome85RDzHlTbBtzE97Gfwz/Ipw4v/Ryk20DWIy3yCNVLVlGKApCnmvYoJbA==
   dependencies:
     semver "^7.3.5"
 
