@@ -4,10 +4,10 @@
   "description": "simple select using yarn install",
   "main": "index.js",
   "license": "MIT",
-  "dependencies": {
-    "msnodesqlv8": "^4.5.0"
-  },
   "scripts": {
     "test": "node index"
+  },
+  "dependencies": {
+    "msnodesqlv8": "file:../../v8/node_modules/msnodesqlv8/msnodesqlv8-5.0.0.tgz"
   }
 }
