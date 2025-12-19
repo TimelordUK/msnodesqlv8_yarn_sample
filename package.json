@@ -8,6 +8,6 @@
     "test": "node index"
   },
   "dependencies": {
-    "msnodesqlv8": "^5.1.0"
+    "msnodesqlv8": "^5.1.3"
   }
 }
