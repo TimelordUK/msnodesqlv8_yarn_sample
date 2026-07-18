@@ -98,10 +98,10 @@ mkdirp-classic@^0.5.2, mkdirp-classic@^0.5.3:
   resolved "https://registry.npmjs.org/mkdirp-classic/-/mkdirp-classic-0.5.3.tgz"
   integrity sha512-gKLcREMhtuZRwRAfqP3RFW+TK4JqApVBtOIftVgjuABpAtpxhPGaDcfvbhNvD0B8iD1oUr/txX35NjcaY6Ns/A==
 
-msnodesqlv8@^5.2.1:
-  version "5.2.1"
-  resolved "https://registry.yarnpkg.com/msnodesqlv8/-/msnodesqlv8-5.2.1.tgz#969bcba1fa8f76be81784a6f4ec29e8233f1e77c"
-  integrity sha512-D5nsHvhRWy5NeUiL8U4QkgpI16EP22ZnrzryeBw1aONOQs6jPUpUxCBSmFOhJBW83cuR1BDjdrFwOz78CmQ3lA==
+msnodesqlv8@^5.2.2:
+  version "5.2.2"
+  resolved "https://registry.yarnpkg.com/msnodesqlv8/-/msnodesqlv8-5.2.2.tgz#3c73031c4d2b5675f3a54a668b11f1c6ec585387"
+  integrity sha512-7iIslJ/d/Rs0ZfwQcMAFr3uQARxsR//NHp9QLFOZocWZoTo/SkILJ1XhCnA+zXdCy5VvYUNQbGTuWsuOaJwD3Q==
   dependencies:
     node-abi "^4.28.0"
     node-addon-api "^8.7.0"
