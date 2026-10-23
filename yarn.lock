@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-msnodesqlv8@^5.6.0:
-  version "5.6.0"
-  resolved "https://registry.yarnpkg.com/msnodesqlv8/-/msnodesqlv8-5.6.0.tgz#3652f9d907e8bd3dce4daba5d469a662a11310d1"
-  integrity sha512-x/VxIXeZoX+gMAPD4FonnEDgSdbfEz9ChQNCe7mMMuArdFLKXnxlwQKeMpA8i3HD+MgxeVI/oTfd/dYS/4MBQg==
+msnodesqlv8@^6.0.0:
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/msnodesqlv8/-/msnodesqlv8-6.0.0.tgz#c0bfb9abcca9c073513e6506dee2da6c38778bb8"
+  integrity sha512-GQXujKKkvSkWNBV4qGS0u+fz4njDLTmFFWMCL6ATxHq4WOSrP/TLJ8Vb09EiRDUeweX+ivxGlSdObhtGOVqE4A==
   dependencies:
     node-addon-api "^8.7.0"
     node-gyp-build "^4.8.4"
